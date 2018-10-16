@@ -1,0 +1,144 @@
+
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 60px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#amazingthings {
+  color: white;
+  text-align: center;
+  padding: 80px;
+  width: 350px; 
+}
+
+#amazingthings div {
+  text-align: center;
+}
+
+header {
+  background-image: url("/images/city-scape.svg");
+  background-size: cover;
+}
+
+.signupnpmbutton {
+  color: white;
+  background-color: rgb(240,146,51);
+  padding: 10px;
+  margin: 0 20px 20px 70px;
+  border-radius: 20px;
+  width: 200px;
+}
+
+#collaboration {
+  color: white;
+  background-color: rgb(39, 53, 71);
+  box-sizing: content-box;
+}
+
+#collaboration aside {
+  padding: 80px;
+  float: left;
+}
+
+.list {
+  padding: 100px;
+  margin: 0 80px 80px 20px;
+  text-align: center;
+}
+
+.bullet {
+  list-style-type: none;
+}
+
+.signuporgsbutton {
+  color: white;
+  background-color: rgb(203,56,55);
+  padding: 10px;
+  margin: 0 0 0 480px;
+  border-radius: 20px;
+  width: 200px;
+}
+
+#whatisnpm {
+  background-image: url(/images/forklift.svg);
+  background-size: cover;
+  background-color: rgb(39, 53, 71);
+  margin: 0 auto;
+}
+
+#whatisnpm aside {
+  color: white;
+  text-align: center;
+  padding: 100px;
+  width: 400px;
+}
+
+.installnpmbutton {
+  color: white;
+  background-color: rgb(49, 68, 88);
+  padding: 10px;
+  margin: 0 20px 20px 80px;
+  border-radius: 20px;
+  width: 200px;
+}
+
+#footer {
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px;
+}
+#footer h2{
+  color: rgb(83, 88, 98);
+}
+#footer p{
+  color: rgb(135, 145, 156)
+}
+
+.left {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 33%;
+  float: left;
+}
+.center {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 33%;
+  display: inline-block;
+}
+.right {
+  text-align: center;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 33%;
+  float: right;
+}
+
+
+
+
+
+
